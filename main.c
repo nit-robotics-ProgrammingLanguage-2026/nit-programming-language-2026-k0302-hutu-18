@@ -5,5 +5,5 @@ int main(void) {
     double d;
     scanf("%lf", &d);
     printf("%f\n", d);
-    return 0;
+    return 0
 }
